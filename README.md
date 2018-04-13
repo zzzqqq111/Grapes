@@ -1,4 +1,4 @@
-# **TypeScript学习**
+﻿# **TypeScript学习**
 ### 作者：Kevin Chan
 > ## [TypeScript入门教程](https://ts.xcatliu.com/)
 ###### *基础的学习教程上面都有，就不再复述了。这里简单讲讲对前端程序员来说，这门语言的特点。* 
