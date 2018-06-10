@@ -1,8 +1,10 @@
 # **TypeScript学习**
 ### 作者：Kevin Chan
 > ## [TypeScript入门教程](https://ts.xcatliu.com/)
-###### *基础的学习点击入门教程。这里简单讲讲对前端程序员来说，这门语言的特点。* 
-* ## 纯JSer的重难点
+###### *基础的学习点击入门教程。以下是这门语言的特点。* 
+* ## TS和JS的本质区别
+    * ### [静态语言和动态语言](./detail/DYNAMICVSSTATIC.md)
+* ## 突破点
     * ### [数据类型](./detail/RAWTYPE.md)
     * ### [修饰符]()
     * ### [类和接口]()
