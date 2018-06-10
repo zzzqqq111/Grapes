@@ -1,4 +1,4 @@
-# **Learning For A Bit Better Life**
+# **The Little Bar**
 ### Author：Kevin Chan
 * ## [TypeScript](./TypeScript/INDEX.md)
 
