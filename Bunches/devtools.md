@@ -3,7 +3,8 @@
 1. #### 添加地址
     ```bash
     sudo vi /etc/hosts
-
+    
+    // add host
     0.0.0.0         account.jetbrains.com
     ```
 2. #### 获取[Activation code](http://idea.lanyus.com/)
@@ -22,7 +23,7 @@
     // 编辑字
     "editor.fontSize": 15,
     "editor.fontFamily": "Courier new, Meslo LG M for Powerline",
-    // 飘逸？
+    // 飘逸？
     // "editor.fontFamily": "Operator Mono",
     // 终端字
     "terminal.integrated.fontSize": 13,
