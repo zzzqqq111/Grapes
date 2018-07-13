@@ -23,8 +23,8 @@
     * ##### 代码规范 jshint
     * ##### 文件图标 vscode-icons
     * ##### 代码照 Polacode
-        * ###### command + p & >Polacode
-        * ###### command + c & command + v
+        * ###### command + p & >Polacode
+        * ###### command + c & command + v
 2. #### 个人配置
 ```js
 {
