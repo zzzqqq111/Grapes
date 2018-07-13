@@ -15,7 +15,15 @@
 * ### [iTerm炫酷combo](https://www.cnblogs.com/weixuqin/p/7029177.html)
 &emsp;
 * ### vscode配置
-1. #### 实用插件：Atom On Dark Theme, Bracket Pair Colorizer, Intellij IDEA Keybindings, jshint, svcode-icons [...](https://blog.csdn.net/qq_38906523/article/details/77278403)
+1. #### [实用插件](https://blog.csdn.net/qq_38906523/article/details/77278403)：
+    * ##### 主题 Atom On Dark Theme
+    * ##### 括号 Bracket Pair Colorizer
+    * ##### idea快捷键 Intellij IDEA Keybindings
+    * ##### 代码规范 jshint
+    * ##### 文件图标 vscode-icons
+    * ##### 代码照 Polacode
+        * ###### command + p & >Polacode
+        * ###### command + c & command + v
 2. #### 个人配置
 ```js
 {
