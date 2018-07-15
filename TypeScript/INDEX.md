@@ -1,7 +1,8 @@
 # **TypeScript学习**
 ### 作者：Kevin Chan
-> ## [TypeScript入门教程](https://ts.xcatliu.com/)
-###### *基础的学习点击入门教程。以下是这门语言的特点。* 
+###### *基础的学习点击[入门教程](https://ts.xcatliu.com/)。以下是这门语言的特点。* 
+* ## TS的由来
+    ### TypeScript时由微软推出的JavaScript的超集，它遵循ES6的规范，并添加了基于类的面向对象开发的特性。
 * ## TS和JS的本质区别
     * ### [静态语言和动态语言](./detail/DYNAMICVSSTATIC.md)
 * ## 突破点
@@ -13,7 +14,8 @@
 * ## TypeScript的应用
     * ### [白鹭引擎Egret]()
     * ### [VScode]()
-    * ### [Angular]()
+    * ### [Angular2]()
+    * ### [ReactNative]()
 * ## 现有项目的结合点
     * ### [React]()
 ## 总结：
