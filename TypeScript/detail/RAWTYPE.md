@@ -17,6 +17,6 @@ let c = <T> ( arg : T ) : T =>{
     return arg
 }
 
-//当然，也可以不声名变量类型，ts会默认加上any
+// 当然，也可以不声名变量类型，ts会默认加上any
 let d
 ```
