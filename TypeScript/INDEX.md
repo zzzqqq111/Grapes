@@ -20,10 +20,9 @@
     * ### 参数类型
     * ### 可选参数
 * ## 面向对象特性
-    * ### [类]()
-    * ### [接口]()
-    * ### [泛型](./detail/RAWTYPE.md)
-    * ### [注解]()
+    * ### [类](./detail/CLASS.md)
+    * ### [接口](./detail/INTERFACE.md)
+    * ### [类型定义文件](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * ## TS和JS的本质区别
     * ### [静态语言和动态语言](./detail/DYNAMICVSSTATIC.md)
 * ## 第三方包的安装工具

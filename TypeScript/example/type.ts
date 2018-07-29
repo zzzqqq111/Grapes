@@ -14,3 +14,4 @@
 // console.log(a)
 // a = add('1', 2)
 // console.log(a)
+export let temp: string = 'hello world';
