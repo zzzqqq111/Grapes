@@ -15,6 +15,7 @@
 * ## TS的编译器
     * ### [在线编译器](http://www.typescriptlang.org/play/index.html)
     * ### 本地编译器
+* ## [VS Code开发环境](https://zhuanlan.zhihu.com/p/21611724)
 * ## [新特性](./detail/NEWFEATURES.md)
     * ### 字符串新特性--同ES6模板
     * ### 参数类型
@@ -25,6 +26,9 @@
     * ### [类型定义文件](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * ## TS和JS的本质区别
     * ### [静态语言和动态语言](./detail/DYNAMICVSSTATIC.md)
+* ## TS项目搭建
+    * ### [vscode开发环境](https://zhuanlan.zhihu.com/p/21611724)
+    * ### [react-ts](https://www.zhihu.com/question/38838053)
 * ## 第三方包的安装工具
     * ### TSD
     * ### Typings

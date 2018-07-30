@@ -1,7 +1,7 @@
 # 数据类型
 #### *相比较JavaScript,TypeScript增加了一下的类型*
 ## 基本类型
-any、void、null、undefined、number、string、boolean、Symbol
+Any、Void、Null、Undefined、Never、Number、String、Boolean、Array、Symbol、Enum、interface、class、Tuple
 
 ### 在js中声名变量
 ```JavaScript
