@@ -1,13 +1,15 @@
 # 接口
+
 ##### *关键词 interface implements*
+
 ```TypeScript
-    /* 用法1： 作为参数类型，限定传入的json对象的类型*/
+    /* 用法1： 作为参数类型，限定传入的json对象的类型 */
     interface PersonInfoInfo { 
         food: string;
         language: string;  
     }
 
-    /* 用法2： 同强类型的实现与继承*/
+    /* 用法2： 同强类型的实现与继承 */
     interface Person {
         eat();
         say();

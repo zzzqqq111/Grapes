@@ -1,8 +1,10 @@
 # 类
+
 ##### *关键词 class new super extends public private protected abstract*
+
 ```TypeScript
   class Person {
-    /* 访问修饰符 public private protected*/
+    /* 访问修饰符 public private protected */
     name ;
     
     /* 构造函数 实例化的限制 */

@@ -1,5 +1,7 @@
 # 新特性
+
 * ### 参数类型
+
     ```TypeScript
         let myName: string = 'kevin chan'
         myName = 20
@@ -21,7 +23,9 @@
         kevin.sex = true
         kevin.age = 20
     ```
+
 * ### 可选参数 
+
     ```TypeScript
         let getPersonalInfo = (name: string, sex = true, age?: number) => {
                 console.log(name)
@@ -30,6 +34,7 @@
         let info = getPersonalInfo('kevin')
     ```
 * ### 无线参数 
+
     ```TypeScript
         /* 对rest and spread操作符的利用 */
         let getPersonalInfo = (...infos) => {
