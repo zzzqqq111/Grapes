@@ -18,10 +18,10 @@
 
     * #### 已融入各大框架
 
-        * ##### 白鹭引擎Egret
         * ##### angular
-        * ##### react-native
         * ##### ant-design
+        * ##### react-native
+        * ##### 白鹭引擎Egret
 
 * ### TS的编译器
 
@@ -55,11 +55,11 @@
     * #### Typings
     * #### npm install @types/jQuery
 
-* ### 与webpack结合
+* ### webpack支持
 
     *   #### ts-loader
 
-* ### [感谢一个神奇的脚手架](https://github.com/MrTreasure)
+* ### [感谢一个神奇的脚手架](https://github.com/nestjs/nest)
 
 * ### 无法申明块范围变量 
 
