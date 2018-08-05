@@ -39,6 +39,7 @@
     * #### [类](./detail/CLASS.md)
     * #### [接口](./detail/INTERFACE.md)
     * #### [类型定义文件](https://github.com/DefinitelyTyped/DefinitelyTyped)
+    * #### [装饰器](https://zhuanlan.zhihu.com/p/22277764)
 
 * ### TS和JS的本质区别
 
