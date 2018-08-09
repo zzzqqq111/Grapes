@@ -39,7 +39,7 @@
         let info = getPersonalInfo('kevin')
     ```
     
-* ### 无线参数 
+* ### 无限参数 
 
     ```TypeScript
         /* 对rest and spread操作符的利用 */
