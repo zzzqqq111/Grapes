@@ -2,6 +2,11 @@
 
 * ### 参数类型
 
+    * #### 基本类型
+        Any、Void、Null、Undefined、Never、Number、String、Boolean、Array、Symbol、Enum、interface、class、Tuple
+
+    * #### 自定义类型
+
     ```TypeScript
         let myName: string = 'kevin chan'
         myName = 20
@@ -33,6 +38,7 @@
         }
         let info = getPersonalInfo('kevin')
     ```
+    
 * ### 无线参数 
 
     ```TypeScript
