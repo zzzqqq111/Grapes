@@ -16,8 +16,11 @@
     }
     /* 强类型中接口没有完全实现，可以重新定义为抽象类*/
     abstract class English implements Person { 
+        constructor(private info: PersonInfoInfo) { 
+        
+        }
         eat() { 
-            console.log(`eating.`);
+            console.log(`eating ${this.info.food} .`);
         }
 
         abstract say() 
