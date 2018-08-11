@@ -20,7 +20,6 @@
 
         * ##### angular
         * ##### ant-design
-        * ##### react-native
         * ##### 白鹭引擎Egret
 
 * ### TS的编译器

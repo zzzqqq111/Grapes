@@ -14,7 +14,15 @@
         eat();
         say();
     }
-    /* 强类型中接口没有完全实现，可以重新定义为抽象类，ts中则是通过重新声明成接口去继承原接口 */
+    /* 强类型中接口没有完全实现，可以重新定义为抽象类*/
+    abstract class English implements Person { 
+        eat() { 
+            console.log(`eating.`);
+        }
+
+        abstract say() 
+    }
+
     class Chinese implements Person { 
         constructor(private info: PersonInfoInfo) { 
         
