@@ -11,3 +11,7 @@
 * ### *2018/9/3*
 
     #### 关键词： [去除safari的橡皮筋效果](https://segmentfault.com/a/1190000014134234)
+
+* ### *2018/9/5*
+
+    #### 关键词： [单页应用在微信中的坑](https://github.com/Chooin/wechat-spa)、[vue-router给的启发](https://github.com/vuejs/vue-router/issues/1963)
