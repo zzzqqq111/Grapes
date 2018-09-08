@@ -1,4 +1,5 @@
 # **TypeScript学习**
+### 视频地址：https://v.youku.com/v_show/id_XMzgxNTMzOTY0NA==.html?spm=a2h3j.8428770.3416059.1
 ### 作者：Kevin Chan
 ###### *基础的学习点击[入门文档](https://ts.xcatliu.com/)、[入门视频](https://www.imooc.com/learn/763)。以下是学习后总结。* 
 
